@@ -25,7 +25,7 @@ Por defecto, el backend recibe peticiones por `http://localhost:4000/`
 ### Cliente
 
 ```bash
-cd front
+cd frontend
 npm install
 npm start
 ```
